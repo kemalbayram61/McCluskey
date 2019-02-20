@@ -1,0 +1,12 @@
+C:\Users\kemal\Desktop\McCluskey\bin\Debug\McCluskey.exe.config
+C:\Users\kemal\Desktop\McCluskey\bin\Debug\McCluskey.exe
+C:\Users\kemal\Desktop\McCluskey\bin\Debug\McCluskey.pdb
+C:\Users\kemal\Desktop\McCluskey\obj\Debug\McCluskey.csprojResolveAssemblyReference.cache
+C:\Users\kemal\Desktop\McCluskey\obj\Debug\McCluskey.exe
+C:\Users\kemal\Desktop\McCluskey\obj\Debug\McCluskey.pdb
+D:\5-Ders\C#\McCluskey\bin\Debug\McCluskey.exe.config
+D:\5-Ders\C#\McCluskey\obj\Debug\McCluskey.exe
+D:\5-Ders\C#\McCluskey\obj\Debug\McCluskey.pdb
+D:\5-Ders\C#\McCluskey\bin\Debug\McCluskey.exe
+D:\5-Ders\C#\McCluskey\bin\Debug\McCluskey.pdb
+D:\5-Ders\C#\McCluskey\obj\Debug\McCluskey.csprojResolveAssemblyReference.cache
